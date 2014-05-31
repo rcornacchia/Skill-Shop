@@ -1,0 +1,33 @@
+body {
+	margin-bottom: 80px;
+	background-image:url("http://i.imgur.com/V17gA.jpg");
+	
+}
+.navbar{
+/*	background-color: transparent;
+	background: transparent;*/
+}
+
+.navbar li{
+	font-color: #000; !important
+}
+.navbar li:hover{
+	background-color:white; !important
+
+}
+
+.page-header {
+	margin-top: 0;
+}
+
+.panel-body {
+	padding-top: 8 px;
+}
+
+.featuredImg {
+	margin-bottom: 15px;
+}
+
+#test {
+	background-opacity: 0;
+}
